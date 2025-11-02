@@ -1,4 +1,4 @@
-/*import conexao.Conexao;
+import conexao.Conexao;
 
 import java.sql.Connection;
 import java.sql.SQLException;
@@ -27,4 +27,3 @@ public class CriandoTabelas {
 
     }
 }
-*/
